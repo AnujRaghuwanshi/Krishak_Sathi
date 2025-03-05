@@ -1,0 +1,38 @@
+name: krishak_sathi
+description: "A new Flutter project."
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  intl: ^0.20.1
+  http: ^1.2.2
+  carousel_slider: ^5.0.0
+  timeline_tile: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/farmer1.jpg
+    - assets/images/farmer2.jpg
+    - assets/images/farmer3.jpg
+    - assets/images/news1.jpg
+    - assets/images/news2.jpg
+    - assets/images/news3.jpg
+    - assets/images/wheat.jpeg
+    - assets/images/rice.jpeg
+    - assets/images/maize.jpg
+    - assets/images/sugarcane.jpg
+    - assets/images/mustard.jpg
+    - assets/images/soyabean.jpeg
+    - assets/images/barley.jpeg
