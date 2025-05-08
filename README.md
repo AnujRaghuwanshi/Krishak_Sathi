@@ -1,6 +1,6 @@
 # Krishak Sathi 🌾
 
-**Krishak Sathi** is a smart farming mobile application built using **Flutter**, aimed at optimizing fertilizer use based on real-time **soil**, **crop**, and **weather** data. The app empowers farmers with AI-driven insights to improve yield and reduce environmental impact.
+**Krishak Sathi** is a smart farming mobile application built using **Dart & Flutter**, aimed at optimizing fertilizer use based on real-time **soil**, **crop**, and **weather** data. The app empowers farmers with AI-driven insights to improve yield and reduce environmental impact.
 
 ---
 
