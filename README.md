@@ -24,7 +24,7 @@
 ---
 
 ## 📱 Screenshots  
-![Login_Page](https://github.com/user-attachments/assets/99cd52ef-9762-470d-a278-c7b743a7d542)
+<img src="https://github.com/user-attachments/assets/99cd52ef-9762-470d-a278-c7b743a7d542" alt="Login_Page" width="300" height="500">
 
 
 ---
